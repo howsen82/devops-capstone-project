@@ -1,0 +1,1 @@
+![Build Status](https://github.com/howsen82/devops-capstone-project/actions/workflows/ci-build.yaml/badge.svg)
